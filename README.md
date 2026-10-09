@@ -1,13 +1,9 @@
-# RI6 — Calculadora simples
-
-Calculadora de terminal feita em TypeScript para praticar classes, herança, encapsulamento e polimorfismo.
+# RI6 — Calculadora
 
 ## Executar
 
-```bash
 npm install
 npm run dev
-```
 
 ## Operações
 
@@ -16,6 +12,4 @@ npm run dev
 - Divisão
 - Potenciação
 - Radiciação
-- Bhaskara
-
-A calculadora recebe os valores pelo terminal usando `readline`.
+- Bhaskara que eu coloquei como equação do segundo grau
